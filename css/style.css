@@ -664,7 +664,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-bottom: 3px;
 }
 
-#aims > div > div > ul, #organizers > div > div > ul, #editions > div > div > ul, #structure > div > div > ul, #resources > div > div > ul, #objectives > div > div > ul, #abstract > div > div > ul, #topics > div > div > ul, #dates > div > div > ul, #submission > div > div > ul, #committee > div > div > ul, #program > div > div > ul, #attending > div > div > ul, #contacts > div > div > ul {
+#audience > div > div > ul, #aims > div > div > ul, #organizers > div > div > ul, #editions > div > div > ul, #structure > div > div > ul, #resources > div > div > ul, #objectives > div > div > ul, #abstract > div > div > ul, #topics > div > div > ul, #dates > div > div > ul, #submission > div > div > ul, #committee > div > div > ul, #program > div > div > ul, #attending > div > div > ul, #contacts > div > div > ul {
     text-align: left;
     padding: 0;
     margin: 10px auto 30px auto;
